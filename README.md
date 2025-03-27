@@ -1,6 +1,8 @@
 # AIGuard-Forging-Trust-in-the-Digital-Age
 
-## Introduction
+AIGuard is a project focused on enhancing digital security through AI-driven techniques. This repository contains the core implementation in a Jupyter Notebook, which leverages various NLP and Machine Learning models.
+
+## Description
 - AIGuard is an advanced voice analysis system designed to safeguard vulnerable populations, particularly elder citizens, from fraudulent voice-based interactions in customer service environments.
 - Voice communications in customer service centers have increased exponentially, with millions of calls processed daily across financial institutions and service providers.
 - With the exponential rise in voice communications across financial institutions and service providers, AIGuard addresses the critical need for real-time, intelligent threat detection amidst millions of daily calls.
@@ -23,3 +25,9 @@ A major challenge in the digital age is ensuring trust and authenticity in voice
   - Process natural language effectively
   - Detect suspicious patterns
   - Provide immediate risk assessments
+
+## Features
+1. Uses NLP techniques to analyze text.
+2. Integrates Whisper ASR for advanced AI capabilities.
+3. Employs Deep Learning models with transformers and torch.
+4. Implements phonetic analysis and language acquisition tools.
